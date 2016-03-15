@@ -13,16 +13,27 @@ Remember, if you need a hand please ask!
 
 
 ## Question One
-A traveller comes to a fork in the road which leads to two villages. In one village the people always tell lies, and in the other village the people always tell the truth. The traveller needs to conduct business in the village where everyone tells the truth. A man from one of the villages is standing in the middle of the fork, but there is no indication of which village he is from. The traveller approaches the man and asks him one question. From the villager's answer, he knows which road to follow. What did the traveller ask?
-
-
+(pointing at the right) fork, is this the for on the right?
+[fork](http://damiontrombley.com/wp-content/uploads/2015/07/Fork-In-the-road.jpg)
 ## Question Two
-A man walks into an art gallery and concentrates on one picture in particular. The museum curator notices this and asks the man why he is so interested in that one painting. The man replies, "Brothers and sisters have I none, but that man's father is my father's son."
 
-Who is in the painting?
+**man - (himself)**
+father - (fathers son)
+grandfather - (that mans father)
 
+(answer)[https://qph.is.quoracdn.net/main-qimg-3dfd46bf1215d38620681f1181b9d080?convert_to_webp=true]
 ## Question Three
-Name four days of the week that start with the letter "t"?
+1. Today
+2. Tomorrow
+3. Tuesday
+4. Thursday
 
 ## Question Four
+[chicken and corn and fox](http://static.tvtropes.org/pmwiki/pub/images/foxchickengrainpuzzle_8397.png)
+1st Trip- Takes the chicken across, leaves the fox and the corn. fox, corn | chicken
+2nd trip - comes back alone
+3rd Trip - brings the fox across, brings back the chicken leaving the corn alone corn chicken, | fox
+4th trip - takes the corn across comes back alone and brings the chicken
+
+
 A man has to get a fox, a chicken, and a sack of corn across a river. He has a row boat, and it can only carry him and one other thing. If the fox and the chicken are left together, the fox will eat the chicken. If the chicken and the corn are left together, the chicken will eat the corn. How does the man do it?
