@@ -29,12 +29,15 @@ His son
 ## Question Three
 Name four days of the week that start with the letter "t"?
 
-- [ ]Tuesday
-- [ ]Thursday
-- [ ]Tomorrow
-- [ ]Today
+-[ ]Tuesday
+
+-[ ]Thursday
+
+-[ ]Tomorrow
+
+-[ ]Today
 
 ## Question Four
 A man has to get a fox, a chicken, and a sack of corn across a river. He has a row boat, and it can only carry him and one other thing. If the fox and the chicken are left together, the fox will eat the chicken. If the chicken and the corn are left together, the chicken will eat the corn. How does the man do it?
 
-Take the Hen and the fox, drop off the fox, bring the hen back, drop off the hen and take the corn, take the corn and leave it with the fox, travel back, collect the chicken and travel back to the other side.
+Take the Hen across, come back, grab the fox, bring the fox over and bring the chicken back, take the corn over and leave it with the fox, travel back, collect the chicken and bring it over.
