@@ -14,14 +14,14 @@ Remember, if you need a hand please ask!
 
 ## Question One
 (pointing at the right) fork, is this the for on the right?
-[fork](http://damiontrombley.com/wp-content/uploads/2015/07/Fork-In-the-road.jpg)
+![fork](http://damiontrombley.com/wp-content/uploads/2015/07/Fork-In-the-road.jpg)
 ## Question Two
 
 **man - (himself)**
 father - (fathers son)
 grandfather - (that mans father)
 
-(answer)[https://qph.is.quoracdn.net/main-qimg-3dfd46bf1215d38620681f1181b9d080?convert_to_webp=true]
+![answer](https://qph.is.quoracdn.net/main-qimg-3dfd46bf1215d38620681f1181b9d080?convert_to_webp=true)
 ## Question Three
 1. Today
 2. Tomorrow
@@ -29,7 +29,7 @@ grandfather - (that mans father)
 4. Thursday
 
 ## Question Four
-[chicken and corn and fox](http://static.tvtropes.org/pmwiki/pub/images/foxchickengrainpuzzle_8397.png)
+![chicken and corn and fox](http://static.tvtropes.org/pmwiki/pub/images/foxchickengrainpuzzle_8397.png)
 1st Trip- Takes the chicken across, leaves the fox and the corn. fox, corn | chicken
 2nd trip - comes back alone
 3rd Trip - brings the fox across, brings back the chicken leaving the corn alone corn chicken, | fox
