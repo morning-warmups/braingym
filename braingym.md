@@ -1,28 +1,31 @@
-# Warm up
+# Morning exercise
 
-_Step 1_
-Fork this repo
+## Question 1
 
-_Step 2_
-Open this file in your test editor and answer the question below. Add some Markdown flare!!!
+In which village no one is lying?
 
-_Step 3_
-Push it to your github account and make me a pull request.
+| Village 1     | Village 2     |
+| ------------- |:-------------:|
+| Everyone lying      | Everyone honest |
 
-Remember, if you need a hand please ask!
+He'll say  "which road goes to your village?". He would then take the route the person pointed to. The truthful person, would point to  his village, the truth village, right? Also, the liar would point to the truth village, the same village because he can't tell the truth. So, if the traveller wants to go the truth village, he knows which road to take. Then, if he wants to take the lie village, he would take that.
 
-
-## Question One
-A traveller comes to a fork in the road which leads to two villages. In one village the people always tell lies, and in the other village the people always tell the truth. The traveller needs to conduct business in the village where everyone tells the truth. A man from one of the villages is standing in the middle of the fork, but there is no indication of which village he is from. The traveller approaches the man and asks him one question. From the villager's answer, he knows which road to follow. What did the traveller ask?
-
-
-## Question Two
-A man walks into an art gallery and concentrates on one picture in particular. The museum curator notices this and asks the man why he is so interested in that one painting. The man replies, "Brothers and sisters have I none, but that man's father is my father's son."
-
+## Question 2
 Who is in the painting?
 
-## Question Three
-Name four days of the week that start with the letter "t"?
+The son of the man who was studying the painting.
 
-## Question Four
-A man has to get a fox, a chicken, and a sack of corn across a river. He has a row boat, and it can only carry him and one other thing. If the fox and the chicken are left together, the fox will eat the chicken. If the chicken and the corn are left together, the chicken will eat the corn. How does the man do it?
+## Question 3
+
+Which four days start with T:
+
+Tuesday
+Thursday
+Today
+Tomorrow
+
+## Question 4
+
+The chicken eats the corn and the fox eats the chicken. Then   he lets the fox on the rowboat and gets across.smiley
+
+Another way is that the man takes the chicken to the other side with him. Then, he leaves the chicken on the other side. He goes back to the other side and takes the corn to the other side,and drops it off. Then he goes back and gets the fox. When he arrives on the other side, the fox, corn and chicken are there.
