@@ -29,4 +29,7 @@ Name four days of the week that start with the letter "t"?
 
 ## Question Four
 A man has to get a fox, a chicken, and a sack of corn across a river. He has a row boat, and it can only carry him and one other thing. If the fox and the chicken are left together, the fox will eat the chicken. If the chicken and the corn are left together, the chicken will eat the corn. How does the man do it?
-- The man should carry the chicken first and then come back, carry the corn across the river. Then he bring back the chicken and carry the fox accross the river.On the other side of the river, there are only fox and corn. Finally, he comes back to bring the chicken across the river.
+- 1.The man carries the chicken to the other side first.
+- 2.The man returns alone and then carries the corn to the other side.
+- 3.The man returns with the chicken and then carries the fox to the other side.
+- 4.The man returns alone and then carries the chicken to the other side.
