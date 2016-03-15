@@ -8,9 +8,9 @@ A1 The traveler asked "which road goes to your village".He would then take the r
 
 
 ## Question 2
-**A man walks into an art gallery and concentrates on one picture in particular. The museum curator notices this and asks the man why he is so interested in that one painting. The man replies, "Brothers and sisters have I none, but that man's father is my father's son."
+**A man walks into an art gallery and concentrates on one picture in particular. The museum curator notices this and asks the man why he is so interested in that one painting. The man replies, "Brothers and sisters have I none, but that man's father is my father's son."**
 
-Who is in the painting?**
+**Who is in the painting?**
 
 A2  The son of the man who was studying the painting
 
