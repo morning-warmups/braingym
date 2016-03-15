@@ -26,3 +26,26 @@ Name four days of the week that start with the letter "t"?
 
 ## Question Four
 A man has to get a fox, a chicken, and a sack of corn across a river. He has a row boat, and it can only carry him and one other thing. If the fox and the chicken are left together, the fox will eat the chicken. If the chicken and the corn are left together, the chicken will eat the corn. How does the man do it?
+
+
+Answer One
+============
+ 
+ ![Fork](http://i.imgur.com/UnSUq2n.jpg)
+ 
+
+ **The traveller asks "Which village do you come from?" . If the person tells the truth he will indicate the village where everybody says the truth, if the man is a liar he will still indicate the truthy village cause he always tells lies, so he can't indicate his own village (it would be the truth), so he points at the other village.**
+
+
+ Answer Two
+ ==========
+ ![Myfather](http://www.mindpuzzle.me/wp-content/uploads/2015/04/painting-riddle_HI-RESOLUTION.jpg)
+
+ **his father;**
+
+
+
+ Answer Three
+ ============
+
+**Tuesday, Thursday, Today, Tomorrow**
