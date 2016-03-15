@@ -31,10 +31,10 @@ grandfather - (that mans father)
 
 ## Question Four
 ![chicken and corn and fox](http://static.tvtropes.org/pmwiki/pub/images/foxchickengrainpuzzle_8397.png)
-1st Trip- Takes the chicken across, leaves the fox and the corn. fox, corn | chicken
-2nd trip - comes back alone
-3rd Trip - brings the fox across, brings back the chicken leaving the corn alone corn chicken, | fox
-4th trip - takes the corn across comes back alone and brings the chicken
+* 1st Trip- Takes the chicken across, leaves the fox and the corn. fox, corn | chicken
+* 2nd trip - comes back alone
+* 3rd Trip - brings the fox across, brings back the chicken leaving the corn alone corn chicken, | fox
+* 4th trip - takes the corn across comes back alone and brings the chicken
 
 
 A man has to get a fox, a chicken, and a sack of corn across a river. He has a row boat, and it can only carry him and one other thing. If the fox and the chicken are left together, the fox will eat the chicken. If the chicken and the corn are left together, the chicken will eat the corn. How does the man do it?
