@@ -4,7 +4,7 @@ Alistair Martin.md
 ## Question 1
 **A traveller comes to a fork in the road which leads to two villages. In one village the people always tell lies, and in the other village the people always tell the truth. The traveller needs to conduct business in the village where everyone tells the truth. A man from one of the villages is standing in the middle of the fork, but there is no indication of which village he is from. The traveller approaches the man and asks him one question. From the villager's answer, he knows which road to follow. What did the traveller ask?**
 
-A1 The traveler asked "which road goes to your village".He would then take the road the villager pointed to because a truthful person would point toward the truthful village,and the liar would also point to the truthful village since he is a liar and, therefore, could not point to his own village.
+The traveler asked "which road goes to your village".He would then take the road the villager pointed to because a truthful person would point toward the truthful village,and the liar would also point to the truthful village since he is a liar and, therefore, could not point to his own village.
 
 
 ## Question 2
@@ -12,14 +12,14 @@ A1 The traveler asked "which road goes to your village".He would then take the r
 
 **Who is in the painting?**
 
-A2  The son of the man who was studying the painting
+The son of the man who was studying the painting
 
 
 
 ## Question 3
-**Q3 Name four days of the week that start with the letter "t"?**
+**Name four days of the week that start with the letter "t"?**
 
-A3 Today, Tomorrow, Tuesday, Thursday 
+Today, Tomorrow, Tuesday, Thursday 
 
 
 
@@ -27,7 +27,7 @@ A3 Today, Tomorrow, Tuesday, Thursday
 ## Question 4
 **A man has to get a fox, a chicken, and a sack of corn across a river. He has a row boat, and it can only carry him and one other thing. If the fox and the chicken are left together, the fox will eat the chicken. If the chicken and the corn are left together, the chicken will eat the corn. How does the man do it?**
 
-A4 The man and the chicken cross the river, (the fox and corn are safe together), he leaves the chicken on the other side and goes back across.
+sThe man and the chicken cross the river, (the fox and corn are safe together), he leaves the chicken on the other side and goes back across.
 
 The man then takes the fox across the river, and since he can't leave the fox and chicken together, he brings the chicken back.
 
