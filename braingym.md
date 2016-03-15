@@ -15,14 +15,35 @@ Remember, if you need a hand please ask!
 ## Question One
 A traveller comes to a fork in the road which leads to two villages. In one village the people always tell lies, and in the other village the people always tell the truth. The traveller needs to conduct business in the village where everyone tells the truth. A man from one of the villages is standing in the middle of the fork, but there is no indication of which village he is from. The traveller approaches the man and asks him one question. From the villager's answer, he knows which road to follow. What did the traveller ask?
 
+The traveller asked:
+> Which way to your village?
+
+If he is from the truthful village he will tell the truth and show the right way and if he is from the village of liars, he will lie and also show the way to the truthful village. 
 
 ## Question Two
 A man walks into an art gallery and concentrates on one picture in particular. The museum curator notices this and asks the man why he is so interested in that one painting. The man replies, "Brothers and sisters have I none, but that man's father is my father's son."
 
 Who is in the painting?
 
+**The man himself!**
+
 ## Question Three
 Name four days of the week that start with the letter "t"?
 
+- Tuesday 
+- Thursday 
+- Today
+- Tomorrow
+
 ## Question Four
 A man has to get a fox, a chicken, and a sack of corn across a river. He has a row boat, and it can only carry him and one other thing. If the fox and the chicken are left together, the fox will eat the chicken. If the chicken and the corn are left together, the chicken will eat the corn. How does the man do it?
+
+1. Take the chicken across, come back alone
+2. Take the fox across, and bring the chicken back
+3. Take the corn across and leave it with the fox, come back alone
+4. Take the chicken across
+
+
+
+
+
