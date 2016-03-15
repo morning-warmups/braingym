@@ -25,7 +25,7 @@ A man walks into an art gallery and concentrates on one picture in particular. T
 
 Who is in the painting?
 
-**The man himself!**
+**His son!**
 
 ## Question Three
 Name four days of the week that start with the letter "t"?
