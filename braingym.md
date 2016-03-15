@@ -23,10 +23,11 @@ grandfather - (that mans father)
 
 ![answer](https://qph.is.quoracdn.net/main-qimg-3dfd46bf1215d38620681f1181b9d080?convert_to_webp=true)
 ## Question Three
-* 1. Today
-* 2. Tomorrow
-* 3. Tuesday
-* 4. Thursday
+
+* Today
+* Tomorrow
+* Tuesday
+* Thursday
 
 ## Question Four
 ![chicken and corn and fox](http://static.tvtropes.org/pmwiki/pub/images/foxchickengrainpuzzle_8397.png)
