@@ -1,0 +1,41 @@
+
+# Warmup 1
+
+## Question One
+A traveller comes to a fork in the road which leads to two villages. In one village the people always tell lies, and in the other village the people always tell the truth. The traveller needs to conduct business in the village where everyone tells the truth. A man from one of the villages is standing in the middle of the fork, but there is no indication of which village he is from. The traveller approaches the man and asks him one question. From the villager's answer, he knows which road to follow. What did the traveller ask?
+
+# Answer
+Point at the right fork and ask which village is down that fork.
+Depending on his answer you know which way to go.
+
+![What the fork?] (https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNT_a0gU27ZngiaRBJSsfb5lPY7NizQVjsvnVfF504Z31fAifizw)
+
+## Question Two
+A man walks into an art gallery and concentrates on one picture in particular. The museum curator notices this and asks the man why he is so interested in that one painting. The man replies, "Brothers and sisters have I none, but that man's father is my father's son."
+
+Who is in the painting?
+
+![Who is it?] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRReZgT0c4eKizb2_8qn9R0pmV0KtPamFGPRdrTc5Ni86w2ivnxow)
+
+## Answer
+He is.
+
+## Question Three
+Name four days of the week that start with the letter "t"?
+
+Today, tomorrow, Tuesday, Thursday.
+
+## Question Four
+A man has to get a fox, a chicken, and a sack of corn across a river. He has a row boat, and it can only carry him and one other thing. If the fox and the chicken are left together, the fox will eat the chicken. If the chicken and the corn are left together, the chicken will eat the corn. How does the man do it?
+
+## Answer
+
+1. Take the chicken across.
+2. Go back, and get the fox.
+3. Drop the fox off and get the chicken and take the chicken back.
+4. Drop the chicken off, and take back the grain.
+5. Drop the grain with the fox.
+6. Return and get the chicken.
+7. Arrive with the chicken to the other side.
+
+![The Office] (https://dscblog.imgix.net/2015/10/10.02.15_FARMER_QUESTION.png)
