@@ -35,10 +35,12 @@ Tuesday, Thursday, today, tomorrow
 A man has to get a fox, a chicken, and a sack of corn across a river. He has a row boat, and it can only carry him and one other thing. If the fox and the chicken are left together, the fox will eat the chicken. If the chicken and the corn are left together, the chicken will eat the corn. How does the man do it?
 
 ## Answers Question Four
-1) Man carries the Chicken to the other side
-2) Man returns alone
-3) Man carries the Corn to the other side
-4) Man returns with the Chicken
-5) Man leaves the Chicken at the start and carries the Fox to the other side
-6) Man returns alone
-7) Man carries the Chicken to the other side
+<ol>
+  <li>Man carries the Chicken to the other side</li>
+  <li>Man returns alone</li>
+  <li>Man carries the Corn to the other side</li>
+  <li>Man returns with the Chicken</li>
+  <li>Man leaves the Chicken at the start and carries the Fox to the other side</li>
+  <li>Man returns alone</li>
+  <li>Man carries the Chicken to the other side</li>
+</ol>
