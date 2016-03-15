@@ -15,8 +15,8 @@ Remember, if you need a hand please ask!
 ## Question One
 A traveller comes to a fork in the road which leads to two villages. In one village the people always tell lies, and in the other village the people always tell the truth. The traveller needs to conduct business in the village where everyone tells the truth. A man from one of the villages is standing in the middle of the fork, but there is no indication of which village he is from. The traveller approaches the man and asks him one question. From the villager's answer, he knows which road to follow. What did the traveller ask?
 
-**If you were from the other village, which village would you tell me leads to the village of lies**
-_Then take the other path_
+**Which way to your village?**
+_Then take that path_
 
 
 ## Question Two
